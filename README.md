@@ -258,9 +258,6 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 📧 Contact
-
-For any inquiries or feedback, please reach out to [Jitendra Kolli](jitendrakolli18@gmail.com).
 
 ---
 
